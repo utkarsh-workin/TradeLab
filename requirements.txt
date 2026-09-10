@@ -1,3 +1,7 @@
 pandas
 numpy
 yfinance
+streamlit
+plotly
+backtesting
+openpyxl
