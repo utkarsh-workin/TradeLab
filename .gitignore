@@ -1,12 +1,21 @@
+# Python virtual environment
 .venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Environment / secrets
 .env
 
-data/raw/*
-data/processed/*
-results/*
+# Project datasets
+Dataset/raw/*
+Dataset/processed/*
 
+# Generated results
+result/*
+
+# Database files
 *.db
 *.sqlite
 *.sqlite3
