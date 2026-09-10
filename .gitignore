@@ -10,7 +10,6 @@ __pycache__/
 
 # Project datasets
 Dataset/raw/*
-Dataset/processed/*
 
 # Generated results
 result/*
