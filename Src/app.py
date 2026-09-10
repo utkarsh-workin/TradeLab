@@ -25,7 +25,7 @@ import plotly.graph_objects as go
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
-PROCESSED_FOLDER = PROJECT_ROOT / "Dataset" / "processed"
+PROCESSED_FOLDER = PROJECT_ROOT / "Dataset" / "Processed"
 
 BACKTEST_SCRIPT = (
     PROJECT_ROOT
