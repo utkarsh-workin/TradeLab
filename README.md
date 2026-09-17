@@ -252,7 +252,7 @@ The TradeLab Streamlit dashboard provides an interactive interface for:
 - Viewing historical price data
 - Viewing technical indicators
 - Viewing trading signals
-- Running backtests
+- Running backtests for supported stocks
 - Viewing performance metrics
 - Viewing trade history
 - Viewing equity curves
@@ -315,7 +315,7 @@ TradeLab follows a structured data workflow:
 
 SQLite is used for storing backtesting and trade-related results.
 
-Raw and processed datasets, generated results, and database files are excluded from Git tracking using `.gitignore`.
+Raw datasets, generated results, and database files are excluded from Git tracking using `.gitignore`. Processed datasets are included in the repository to support deployment and reproducibility.
 
 ---
 

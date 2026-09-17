@@ -258,22 +258,22 @@ st.sidebar.header(
 
 show_sma20 = st.sidebar.checkbox(
     "SMA 20",
-    value=True
+    value=False
 )
 
 show_sma50 = st.sidebar.checkbox(
     "SMA 50",
-    value=True
+    value=False
 )
 
 show_ema20 = st.sidebar.checkbox(
     "EMA 20",
-    value=True
+    value=False
 )
 
 show_ema50 = st.sidebar.checkbox(
     "EMA 50",
-    value=True
+    value=False
 )
 
 
@@ -483,7 +483,7 @@ st.sidebar.header(
 
 show_signals = st.sidebar.checkbox(
     "Show Buy/Sell Signals",
-    value=True
+    value=False
 )
 
 
