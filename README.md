@@ -262,6 +262,20 @@ The TradeLab Streamlit dashboard provides an interactive interface for:
 - Viewing equity curves
 - Performing historical what-if analysis
 
+### Dashboard Preview
+
+#### Main Dashboard
+
+![TradeLab Dashboard](dashboard-preview.png)
+
+#### Backtest Performance
+
+![TradeLab Backtest Performance](backtest-performance.png)
+
+#### Equity Curve
+
+![TradeLab Equity Curve](equity-curve.png)
+
 ---
 
 ## 11. Installation
