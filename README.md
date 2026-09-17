@@ -32,6 +32,10 @@ TradeLab provides an end-to-end workflow:
 
 The platform currently focuses on Indian equities and major market indices.
 
+### System Architecture
+
+![TradeLab System Architecture](tradelab-architecture.png)
+
 ---
 
 ## 2. Key Features
