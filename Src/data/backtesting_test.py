@@ -12,7 +12,7 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-PROCESSED_FOLDER = PROJECT_ROOT / "Dataset" / "processed"
+PROCESSED_FOLDER = PROJECT_ROOT / "Dataset" / "Processed"
 RESULT_FOLDER = PROJECT_ROOT / "result"
 
 RESULT_FOLDER.mkdir(parents=True, exist_ok=True)
